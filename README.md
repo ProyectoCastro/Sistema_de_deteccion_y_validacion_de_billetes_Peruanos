@@ -6,3 +6,4 @@ Integrantes:
 - Chapa Chavez Josué
 - Litano Talledo Ronald Emanuel
 - Viera Cabezudo Aarón
+- Barrientos Morante María
